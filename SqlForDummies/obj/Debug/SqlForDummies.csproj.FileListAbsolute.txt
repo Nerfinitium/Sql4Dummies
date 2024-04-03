@@ -1,0 +1,11 @@
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\bin\Debug\SqlForDummies.exe.config
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\bin\Debug\SqlForDummies.exe
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\bin\Debug\SqlForDummies.pdb
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.csproj.AssemblyReference.cache
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.Form1.resources
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.Properties.Resources.resources
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.csproj.GenerateResource.cache
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.csproj.CoreCompileInputs.cache
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.exe
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.pdb
+C:\Users\buldu\source\repos\SqlForDummies\SqlForDummies\obj\Debug\SqlForDummies.Management.resources
