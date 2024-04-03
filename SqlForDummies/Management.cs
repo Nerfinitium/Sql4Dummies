@@ -15,7 +15,7 @@ namespace SqlForDummies
     public partial class Management : Form
     {
         //kendi veritabnına göre değiştir
-        string connectionString = "Data Source=192.168.1.102,1433;Initial Catalog=DBORMAN;User ID=sa;Password=Tureet45;";
+        string connectionString = "Data Source=192.168.1.102,1433;Initial Catalog=DBORMAN;User ID=sa;Password=SİZİNŞİFRENİZ;";
 
         public Management()
         {
