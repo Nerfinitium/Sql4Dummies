@@ -1,5 +1,5 @@
 ﻿//Script kid olmayın bu kodu ben kendi emeğimle yazdım ve sizde emeğime saygı gösterin.
-//hepinizin canı cehenneme bu arada.
+
 //Arch64 sunar.
 
 using System;
